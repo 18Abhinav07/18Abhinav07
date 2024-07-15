@@ -9,7 +9,8 @@ I'm currently pursuing my B.Tech in CSE rom the Indian Institute of Information 
 - 👯 I have some experience with Kotlin and app dev. Currently I am learning CNN, RNN and transformers from deep learning and actively wish to put up some projects for it. 
 - 💼 I have certifications from Harvard edX in AI and Python, and Microsoft Azure, also certification in Artificial Intelligence from Languify Machine learning specialization from stanford and deeplearning.ai.
 - I am certified in SQL and WEB by CS50 through harvard.
-- 🏸 I'm passionate about badminton and enjoy staying active with workouts.
+- I have also certification from Tensorflow advanced by deeplearning.ai and have worked with tensorflow
+- 🏸 I love workouts and runs.
 - 💻 I'm always eager for new work opportunities, research positions, internships and projects.
 
 ## Get in Touch
