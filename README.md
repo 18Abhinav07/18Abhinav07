@@ -13,6 +13,9 @@ I'm currently pursuing my B.Tech in CSE rom the Indian Institute of Information 
 - 🏸 I love workouts and runs.
 - 💻 I'm always eager for new work opportunities, research positions, internships and projects.
 
+- Recently went on to attend the code for good bangalore by Jp Morgan and Chase
+- Attending Hacker House Goa 2024
+  
 ## Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/abhinavpangaria1807200305
