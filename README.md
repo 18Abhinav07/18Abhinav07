@@ -1,8 +1,5 @@
 # Hi there! 👋 I'm Abhinav Pangaria
 
-![Profile Views](https://komarev.com/ghpvc/?username=18Abhinav07&color=blueviolet) 
-[![GitHub followers](https://img.shields.io/github/followers/abhinavpangaria?label=Follow%20Me&style=social)](https://github.com/18Abhinav07)
-
 I'm currently pursuing my **B.Tech in CSE** from the **Indian Institute of Information Technology Guwahati**.
 
 ---
