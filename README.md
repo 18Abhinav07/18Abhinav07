@@ -37,10 +37,10 @@ I'm currently pursuing my **B.Tech in CSE** from the **Indian Institute of Infor
 
 ## 🏆 My Certificates
 
-[![AI Training](https://img.shields.io/badge/Certificate-AI%20Training-blue)](./certificates/AI_training.pdf)
-[![API](https://img.shields.io/badge/Certificate-API-red)](./certificates/API.pdf)
+[![AI Training](https://img.shields.io/badge/Certificate-AI%20Training-blue)](./Certificates/AI_training.pdf)
+[![API](https://img.shields.io/badge/Certificate-API-red)](./Certificates/API.pdf)
 [![Deep Learning Specialization](https://img.shields.io/badge/Certificate-Deep%20Learning%20Specialization-brightgreen)](./certificates/Deep_Learning_specialization.pdf)
-[![Leetcode 50](https://img.shields.io/badge/Certificate-Leetcode%2050-yellow)](./certificates/Leetcode_50.png)
+[![Leetcode 50](https://img.shields.io/badge/Certificate-Leetcode%2050-yellow)](./Certificates/Leetcode_50.png)
 
 
 ---
