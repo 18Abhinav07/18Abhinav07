@@ -35,6 +35,14 @@ I'm currently pursuing my **B.Tech in CSE** from the **Indian Institute of Infor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavpangaria1807200305) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavpangaria2003@gmail.com)
 
+## 🏆 My Certificates
+
+[![AI Training](https://img.shields.io/badge/Certificate-AI%20Training-blue)](./certificates/AI_training.pdf)
+[![API](https://img.shields.io/badge/Certificate-API-red)](./certificates/API.pdf)
+[![Deep Learning Specialization](https://img.shields.io/badge/Certificate-Deep%20Learning%20Specialization-brightgreen)](./certificates/Deep_Learning_specialization.pdf)
+[![Leetcode 50](https://img.shields.io/badge/Certificate-Leetcode%2050-yellow)](./certificates/Leetcode_50.png)
+
+
 ---
 
 Feel free to reach out if you want to collaborate on a project or discuss anything related to my interests!
