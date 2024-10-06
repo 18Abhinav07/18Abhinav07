@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Abhinav Pangaria
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhinavpangaria&color=blueviolet) 
-[![GitHub followers](https://img.shields.io/github/followers/abhinavpangaria?label=Follow%20Me&style=social)](https://github.com/abhinavpangaria)
+![Profile Views](https://komarev.com/ghpvc/?username=18Abhinav07&color=blueviolet) 
+[![GitHub followers](https://img.shields.io/github/followers/abhinavpangaria?label=Follow%20Me&style=social)](https://github.com/18Abhinav07)
 
 I'm currently pursuing my **B.Tech in CSE** from the **Indian Institute of Information Technology Guwahati**.
 
@@ -28,8 +28,8 @@ I'm currently pursuing my **B.Tech in CSE** from the **Indian Institute of Infor
 
 ## 📊 GitHub Stats
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavpangaria&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavpangaria&layout=compact&theme=radical)
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=18Abhinav07&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=18Abhinav07&layout=compact&theme=radical)
 
 ---
 
