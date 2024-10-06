@@ -1,28 +1,46 @@
 # Hi there! 👋 I'm Abhinav Pangaria
 
-I'm currently pursuing my B.Tech in CSE rom the Indian Institute of Information Technology Guwahati.
+![Profile Views](https://komarev.com/ghpvc/?username=abhinavpangaria&color=blueviolet) 
+[![GitHub followers](https://img.shields.io/github/followers/abhinavpangaria?label=Follow%20Me&style=social)](https://github.com/abhinavpangaria)
 
-## About Me
+I'm currently pursuing my **B.Tech in CSE** from the **Indian Institute of Information Technology Guwahati**.
 
-- 🔭 I'm interested in Machine Learning, Artificial Intelligence, Web Development, and Backend Development.
-- 🌱 I'm proficient in Python, C, C++, and Java. Currently I am working on my javascript and MERN skills. I have worked with dango and DRF and have certifications from META.
-- 👯 I have some experience with Kotlin and app dev. Currently I am learning CNN, RNN and transformers from deep learning and actively wish to put up some projects for it. 
-- 💼 I have certifications from Harvard edX in AI and Python, and Microsoft Azure, also certification in Artificial Intelligence from Languify Machine learning specialization from stanford and deeplearning.ai.
-- I am certified in SQL and WEB by CS50 through harvard.
-- I have also certification from Tensorflow advanced by deeplearning.ai and have worked with tensorflow
-- 🏸 I love workouts and runs.
-- 💻 I'm always eager for new work opportunities, research positions, internships and projects.
+---
 
-- Recently went on to attend the code for good bangalore by Jp Morgan and Chase
-- Winner Hacker House Goa 2024
-  
-## Get in Touch
+## 🧑‍💻 About Me
 
-- LinkedIn: https://www.linkedin.com/in/abhinavpangaria1807200305
-- Email: abhinavpangaria2003@gmail.com
+- 🔭 I have a deep interest in **Blockchain**, **DeFi**, and **Smart Contracts** development and security.
+- 🌱 I'm proficient in **Solidity**, **Node.js**, and **Python**. I have worked with **React**, **MongoDB** and **Django**.
+- 👯 I have experience working in the fields of **AI**, **ML**, **END-to-END development**. 
+- 🎓 Certifications:
+  - **AI and Python** from Harvard edX.
+  - **Microsoft Azure** certified.
+  - **Machine Learning Specialization** from Stanford and deeplearning.ai.
+  - **Deep Learning Specialization** from Stanford and deeplearning.ai.
+  - **SQL and Web** from **CS50**, Harvard.
+  - **TensorFlow Developer** by deeplearning.ai.
+- 🏆 **Winner** of **Hacker House Goa 2024** ( **Built Blockpay: A decentralised payment system. using Blockhain and Web3 tech**).
+- 🛠️ Participated **Code for Good Bangalore** by JP Morgan and Chase and qualified for and upcoming **SDE role**.
+- 🏋️ I love working out and travel.
+- 💻 Always eager for new **work opportunities**, **research positions**, **internships**, and **projects**.
+
+---
+
+## 📊 GitHub Stats
+
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavpangaria&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavpangaria&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavpangaria1807200305) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavpangaria2003@gmail.com)
+
+---
 
 Feel free to reach out if you want to collaborate on a project or discuss anything related to my interests!
-
 
 <!---
 18Abhinav07/18Abhinav07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
