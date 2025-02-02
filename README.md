@@ -7,9 +7,9 @@ I'm currently pursuing my **B.Tech in CSE** from the **Indian Institute of Infor
 
 ## 🧑‍💻 About Me
 
-- 🔭 I have a deep interest in **Blockchain**, **DeFi**, and **Smart Contracts** development and security.
-- 🌱 I'm proficient in **Solidity**, **Node.js**, and **Python**. I have worked with **React**, **MongoDB** and **Django**.
-- 👯 I have experience working in the fields of **AI**, **ML**, **END-to-END development**. 
+- 🔭 I have a deep interest in **Web3**, **DeFi**, **Web2 (end-end dev)** and **Contract Aduditing and Security**.
+- 🌱 I'm proficient in **MERN / Next | Js/Ts**, **React-native**,**SQL / NoSQL**, **Solidity**. 
+- 👯 I have some knowledge of **AI/ML** and working on **Solana**
 - 🎓 Certifications:
   - **AI and Python** from Harvard edX.
   - **Microsoft Azure** certified.
