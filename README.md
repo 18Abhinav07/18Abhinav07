@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Abhinav Pangaria
-[Portfolio](https://abhinavs-portfolio.onrender.com)
+[Portfolio](https://abhinav-pangaria.vercel.app/)
 
 I'm currently pursuing my **B.Tech in CSE** from the **Indian Institute of Information Technology Guwahati**.
 
