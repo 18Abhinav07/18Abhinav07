@@ -18,7 +18,8 @@ I am a **technology entrepreneur and software engineer** dedicated to transformi
 ## 🏆 Key Achievements & Experience  
 
 - 🏅 **Hacker House Goa 2024 Winner** → Developed **BlockPay**, a decentralized payment system revolutionizing transactions.  
-- 💼 **Code for Good Bangalore (JPMC)** → Secured an **SDE role** through a competitive hackathon selection.  
+- 💼 **Code for Good Bangalore (JPMC)** → Secured an **SDE role** through a competitive hackathon selection.
+- 🏆 **Stellar Build Better (2025) Winner** → Built PayZoll a web3 payment infrastructure on stellar.
 - 📖 **Continuous Learning** → Always exploring new frameworks, tools, and blockchain innovations to expand expertise.  
 
 ---
