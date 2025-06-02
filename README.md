@@ -1,4 +1,4 @@
-# Abhinav Pangaria | Co-Founder at PayZoll  
+# Abhinav Pangaria | @PayZoll  
 
 [Portfolio](https://abhinav-pangaria.vercel.app/)  
 
@@ -8,7 +8,6 @@ I am a **technology entrepreneur and software engineer** dedicated to transformi
 
 ## 🚀 Professional Profile  
 
-- **Co-Founder, PayZoll** → Driving innovation in digital transactions through a decentralized financial ecosystem.  
 - **Full-Stack Developer** → Expertise in **MERN/Next.js, JavaScript/TypeScript, React Native**.  
 - **Blockchain & Security Enthusiast** → Passionate about **Web3, DeFi, smart contract auditing**, and secure DApp development.  
 - **Emerging Technologies** → Continuously upskilling in **Solidity, Solana, AI/ML** to stay ahead in tech advancements.  
@@ -20,16 +19,17 @@ I am a **technology entrepreneur and software engineer** dedicated to transformi
 - 🏅 **Hacker House Goa 2024 Winner** → Developed **BlockPay**, a decentralized payment system revolutionizing transactions.  
 - 💼 **Code for Good Bangalore (JPMC)** → Secured an **SDE role** through a competitive hackathon selection.
 - 🏆 **Stellar Build Better (2025) Winner** → Built PayZoll a web3 payment infrastructure on stellar.
-- 📖 **Continuous Learning** → Always exploring new frameworks, tools, and blockchain innovations to expand expertise.  
+- 🏆 **Pharos (2025) Winner** → Tradfi payment infrastructure.
 
 ---
 
 ## 💻 Technical Expertise  
 
-- **Frontend & Backend Development** → Building scalable, high-performance web and mobile applications.  
-- **Blockchain Development** → Expertise in **Solidity smart contracts, Web3 integrations, and security auditing**.  
+- **Frontend & Backend Development** → Building scalable, high-performance web and mobile applications.  MERN | Native
+- **Blockchain Development** → Expertise in **Solidity smart contracts, Web3 integrations, and security auditing**.  Solidity | Rust | Move
 - **Mobile & Web Applications** → Creating seamless, intuitive user experiences with modern UI/UX.  
-- **Database Management** → Strong in **SQL, NoSQL** for structured and dynamic data solutions.  
+- **Database Management** → Strong in **SQL, NoSQL** for structured and dynamic data solutions.
+- **AI** → Gen-Ai and Python along with Neural-Deep Learning
 
 ---
 
