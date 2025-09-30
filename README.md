@@ -10,8 +10,11 @@ Currently, I am pursuing my B.Tech in Computer Science and Engineering at the In
 **What I’m Building**
 
 **PayZoll** → A modular, Decentralised Web3-native financial infrastructure platform.
+
 1- Cross-border payroll & payments with Stellar.
+
 2- Real-time streaming payroll.
+
 3- Fiat <> Crypto on/off-ramps with regulated anchors.
 
 ## Key Achievements & Experience  
