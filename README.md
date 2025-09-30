@@ -5,18 +5,14 @@
 I am a technology entrepreneur and founder driven by the mission of building next-generation financial infrastructure. As the Co-Founder of PayZoll, I’m leading the development of a modular Web3-native payments and payroll platform that bridges TradFi and DeFi, enabling seamless global transactions.
 
 We recently partnered with Stellar through the SCF Build Awards, and are actively working towards ecosystem growth, adoption, and financial inclusion by leveraging Stellar’s capabilities in cross-border payments and compliance-ready infrastructure.
-
 Currently, I am pursuing my B.Tech in Computer Science and Engineering at the Indian Institute of Information Technology, Guwahati while scaling PayZoll into a real-world impact product.
 
-🌍 What I’m Building
+**What I’m Building**
 
 **PayZoll** → A modular, Decentralised Web3-native financial infrastructure platform.
-
-Cross-border payroll & payments with Stellar.
-
-Real-time streaming payroll.
-
-Fiat <> Crypto on/off-ramps with regulated anchors.
+1- Cross-border payroll & payments with Stellar.
+2- Real-time streaming payroll.
+3- Fiat <> Crypto on/off-ramps with regulated anchors.
 
 ## Key Achievements & Experience  
 
