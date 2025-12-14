@@ -1,15 +1,5 @@
 # Abhinav Pangaria
-
-[Portfolio](https://abhinav-pangaria.vercel.app/)  
-
 Just building stuff !
-
-
-
-## 📊 GitHub Statistics  
-
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=18Abhinav07&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=18Abhinav07&layout=compact&theme=radical)  
 
 ---
 
