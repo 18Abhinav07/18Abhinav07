@@ -161,8 +161,6 @@ The trust layer for climate data. DePIN meets verifiable IP.
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=18Abhinav07&hide_border=true&background=0b1622&stroke=0f766e&ring=84cc16&fire=84cc16&currStreakLabel=84cc16&sideLabels=c9d4e0&dates=8b98a5&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/18Abhinav07/18Abhinav07/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/18Abhinav07/18Abhinav07/output/github-contribution-grid-snake.svg" />
