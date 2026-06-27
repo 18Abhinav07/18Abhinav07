@@ -39,9 +39,7 @@ Founder-engineer. I take ideas from a **blank page to production mainnet**, fast
 
 **Five protocols shipped** across Stellar, Mantle, Polkadot and Base: payments, privacy, on-chain credit, RWA, climate-data trust.
 
-**IIIT Guwahati** &nbsp;·&nbsp; B.Tech Computer Science, CGPA **9.10 / 10**, graduating July 2026.
-
-Signature move: learning by building under live pressure. Hackathon to mainnet.
+**IIIT Guwahati** &nbsp;·&nbsp; B.Tech Computer Science, CGPA **9.10 / 10**
 
 </td>
 <td width="32%" valign="top" align="center">
