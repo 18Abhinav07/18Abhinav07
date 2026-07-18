@@ -31,9 +31,9 @@
 
 ### Profile
 
-Founder-engineer. I take ideas from a **blank page to production mainnet**, fast, across ecosystems I had never touched the week before.
+Founder/Builder. I take ideas from a **blank page to production mainnet**, fast, across ecosystems I had never touched the week before.
 
-**PayZoll** &nbsp;·&nbsp; Co-founder and lead architect. Won the **$100K Stellar Community Fund** grant, then shipped to **Soroban mainnet in ~4 months**. Built the full Rust service: message queues, payment delegation, recoverability, real-time health dashboard.
+**PayZoll** &nbsp;·&nbsp; Co-founded and lead architect. Won the **$100K Stellar Community Fund** grant, then shipped to **Soroban mainnet in ~4 months**. Built the full Rust service: message queues, payment delegation, recoverability, real-time health dashboard.
 
 **JP Morgan** &nbsp;·&nbsp; Asset & Wealth Management. Shipped a RAG ticket-triage pipeline (bug resolution **~1 week → ~1 day**) and a Snowflake pipeline that cut manual reporting **60%+**.
 
