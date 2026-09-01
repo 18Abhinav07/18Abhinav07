@@ -2,7 +2,7 @@
 
 <img src="assets/hero.gif" alt="Abhinav Pangaria — builder reel" width="900" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1622,50:0f766e,100:84cc16&height=200&section=header&text=Abhinav%20Pangaria&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Founder-Engineer%20%C2%B7%20Systems%20Architect%20%C2%B7%20Web3%20%26%20Agentic%20Infra&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Abhinav Pangaria" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1622,50:0f766e,100:84cc16&height=200&section=header&text=Abhinav%20Pangaria&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Founder-Engineer%20%C2%B7%20Systems%20Architect%20%C2%B7%20Web3%20%C2%B7%20Agentic%20Infra&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Abhinav Pangaria" />
 
 <a href="https://abhinavpangaria.pages.dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=84CC16&center=true&vCenter=true&width=800&lines=Zero+to+production+mainnet+across+unfamiliar+stacks;Agentic+governance+%C2%B7+Privacy+primitives+%C2%B7+DeFi+rails;Building+systems+that+clear+when+nobody+is+watching" alt="headline" />
@@ -188,10 +188,10 @@ Decentralized on-chain credit scoring and risk evaluation layer. Hybrid EVM ↔ 
 <br/><br/>
 
 <a href="https://github.com/18Abhinav07">
-  <img src="https://github-readme-stats.vercel.app/api?username=18Abhinav07&show_icons=true&theme=tokyonight&bg_color=0b1622&title_color=84cc16&text_color=e2e8f0&icon_color=0f766e&border_color=1e293b&hide_border=false" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=18Abhinav07&show_icons=true&theme=tokyonight&bg_color=0b1622&title_color=84cc16&text_color=e2e8f0&icon_color=0f766e&border_color=1e293b&hide_border=false" alt="GitHub Stats" height="165" />
 </a>
 <a href="https://github.com/18Abhinav07">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18Abhinav07&layout=compact&theme=tokyonight&bg_color=0b1622&title_color=84cc16&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18Abhinav07&layout=compact&theme=tokyonight&bg_color=0b1622&title_color=84cc16&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Top Languages" height="165" />
 </a>
 
 </div>
