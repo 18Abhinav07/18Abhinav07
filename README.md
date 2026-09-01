@@ -175,7 +175,7 @@ Decentralized on-chain credit scoring and risk evaluation layer. Hybrid EVM ↔ 
 
 ---
 
-## Activity & Metrics
+## GitHub Activity
 
 <div align="center">
 
@@ -184,15 +184,6 @@ Decentralized on-chain credit scoring and risk evaluation layer. Hybrid EVM ↔ 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/18Abhinav07/18Abhinav07/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/18Abhinav07/18Abhinav07/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-<br/><br/>
-
-<a href="https://github.com/18Abhinav07">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=18Abhinav07&show_icons=true&theme=tokyonight&bg_color=0b1622&title_color=84cc16&text_color=e2e8f0&icon_color=0f766e&border_color=1e293b&hide_border=false" alt="GitHub Stats" height="165" />
-</a>
-<a href="https://github.com/18Abhinav07">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18Abhinav07&layout=compact&theme=tokyonight&bg_color=0b1622&title_color=84cc16&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Top Languages" height="165" />
-</a>
 
 </div>
 
