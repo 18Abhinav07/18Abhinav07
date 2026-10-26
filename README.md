@@ -1,181 +1,96 @@
 <div align="center">
 
-<img src="assets/hero.gif" alt="Abhinav Pangaria — builder reel" width="900" />
+<img src="assets/desk.gif" alt="Pixel-art Abhinav at a desk, coding on a laptop and a second monitor and shipping each build into the cloud" width="820" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1622,50:0f766e,100:84cc16&height=200&section=header&text=Abhinav%20Pangaria&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Founder-Engineer%20%C2%B7%20Systems%20Architect%20%C2%B7%20Web3%20%C2%B7%20Agentic%20Infra&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Abhinav Pangaria" />
+# Abhinav Pangaria
 
-<a href="https://abhinavpangaria.pages.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=84CC16&center=true&vCenter=true&width=800&lines=Zero+to+production+mainnet+across+unfamiliar+stacks;Agentic+governance+%C2%B7+Privacy+primitives+%C2%B7+DeFi+rails;Building+systems+that+clear+when+nobody+is+watching" alt="headline" />
-</a>
+**I build resilient systems, from idea to production.**
 
-<br/>
+Full-stack engineer across backend, infrastructure and the product on top.<br/>
+Previously JP Morgan Chase. Stellar SCF grantee.
 
-`$100K Stellar SCF Grant`&nbsp;&nbsp;·&nbsp;&nbsp;`IIIT Guwahati (CGPA 9.10)`&nbsp;&nbsp;·&nbsp;&nbsp;`ex-JPMorgan`&nbsp;&nbsp;·&nbsp;&nbsp;`Mainnet Shipped`&nbsp;&nbsp;·&nbsp;&nbsp;`Open Campus Incubation`
-
-<br/>
-
-<a href="https://abhinavpangaria.pages.dev"><img src="https://img.shields.io/badge/Portfolio-84cc16?style=for-the-badge&logo=vercel&logoColor=0b1622" alt="Portfolio" /></a>
-<a href="https://github.com/18Abhinav07"><img src="https://img.shields.io/badge/GitHub-0b1622?style=for-the-badge&logo=github&logoColor=84cc16" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/abhinavpangaria"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/abhinavpangaria"><img src="https://img.shields.io/badge/X-0b1622?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://t.me/abhinavpangaria"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="mailto:abhinavpangaria2003@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+[Portfolio](https://abhinavpangaria.pages.dev) &nbsp;·&nbsp; [Writing](https://dev.to/abhinav_pangaria) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/abhinavpangaria) &nbsp;·&nbsp; [X](https://x.com/abhinavpangaria) &nbsp;·&nbsp; [Email](mailto:abhinavpangaria2003@gmail.com)
 
 </div>
 
----
+<br/>
 
-### Profile
+I build things end to end: the idea, the system underneath it, and the part people actually touch.
 
-Founder & systems architect. I build production-grade infrastructure from a blank page to mainnet across protocols, agent execution layers, and distributed systems.
+The subject keeps changing. So far it has been developer tools, payments, privacy, language learning and research, sometimes alone and sometimes inside a large bank. The habit stays the same: understand the problem properly, build the smallest thing that really solves it, then keep at it until it holds up with real people using it.
 
-- **PayZoll** · Co-founder & lead architect. Won the **$100K Stellar Community Fund (SCF)** grant and shipped to **Soroban mainnet in ~4 months**. Engineered the core Rust/Go settlement services, multi-hop path payment formation, recovery queues, and operational dashboards.
-- **AgentOps** · Designed the real-time policy firewall & spending control plane for autonomous AI agents across **Casper Network** and **Arc**, with atomic budget holds and immutable on-chain audit proof via Odra/Rust.
-- **Guardian Kane** · Architected a 12-phase automated verification loop and code/PRD graph control plane for Claude Code, enforcing deterministic verification gates before agent tasks reach done.
-- **JP Morgan** · Asset & Wealth Management. Shipped a RAG ticket-triage pipeline (reducing resolution cycle times from **~1 week to ~1 day**) and automated data pipelines cutting manual reporting by **60%+**.
-- **IIIT Guwahati** · B.Tech Computer Science & Engineering (CGPA **9.10 / 10**).
+<br/>
 
----
+## Recent work
 
-## Featured Systems & Architecture
+| | Project | What it is | The number that matters |
+|---|---|---|---|
+| 01 | **[Sieve](https://github.com/18Abhinav07/A-Game-Of-Vectors)** | A vector search engine written from scratch: a billion vectors, searched on one laptop. <sub>Rust · [site](https://18abhinav07.github.io/A-Game-Of-Vectors/)</sub> | 1B vectors at **420 QPS**, R@10 0.906, **225 MB** of RAM |
+| 02 | **[Voluntas](https://github.com/18Abhinav07/Voluntas-Challenge)** | An order-book collector for Kalshi and Polymarket that keeps every book exact. <sub>Rust · [writeup](https://18abhinav07.github.io/Voluntas-Challenge/)</sub> | **118.2M** snapshots replayed, **0** mismatches |
+| 03 | **[Prefill and the Frame](https://github.com/18Abhinav07/DiggingOnDart)** | Local inference vs. the browser compositor: why GPU-heavy pages stutter while a model reads. <sub>Python · llama.cpp</sub> | **64%** dropped frames at batch 512, **1.3%** at batch 64 |
+| 04 | **[Loom](https://github.com/18Abhinav07/Loom)** | A shared, live world model for parallel coding agents, kept in one graph. <sub>TypeScript · [post](https://dev.to/abhinav_pangaria/stale-memory-stale-execution-and-how-loom-tackles-stalebench-f2i)</sub> | Merges passing: **0/36** without it, **24/36** with it |
+| 05 | **[Guardian Kane](https://github.com/18Abhinav07/adventures-with-kane)** | The loop that makes an agent's "done" something it has to prove, not just say. <sub>Node.js · Claude Code</sub> | **460+** unit tests, 3-strike escalation to a human |
+| 06 | **[AgentOps](https://github.com/AgenticOperations/AOPS-PMOA)** | The organizational control plane for agents that hold money. <sub>TypeScript · [deck](https://canva.link/ja7l3zsexb11suy)</sub> | **5** agents on **2** chains, fail-closed policy |
+| 07 | **[Zidd](https://zidd.onrender.com)** | An AI English coach for learners in India, from Class 2 chapters to the interview room. <sub>FastAPI · LangGraph</sub> | **47** NCERT chapters, **2,330** backend tests |
+
+<br/>
+
+## Watch it run
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 01 · [AgentOps](https://github.com/AgenticOperations/AOPS-PMOA) &nbsp;<sub>Casper Network · Arc</sub>
-Policy firewall and governance layer for autonomous AI agents across Casper and Arc. Real-time spend caps, velocity limits, and atomic budget holds anchored immutably to Casper GuardRegistry.
-
-<a href="https://www.youtube.com/watch?v=eulHWqBkedQ" target="_blank">
-  <img src="https://img.youtube.com/vi/eulHWqBkedQ/mqdefault.jpg" width="100%" alt="AgentOps Demo Video" />
-</a>
-
-![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff&style=flat-square) ![Casper x402](https://img.shields.io/badge/-Casper%20x402-FF0000?style=flat-square) ![Arc](https://img.shields.io/badge/-Arc-0f766e?style=flat-square) ![MCP](https://img.shields.io/badge/-MCP-0b1622?logoColor=fff&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
-
-[Live App](https://agentops.up.railway.app) · [GitHub](https://github.com/AgenticOperations/AOPS-PMOA) · [Video Demo](https://www.youtube.com/watch?v=eulHWqBkedQ) · [Docs](https://aops.tiiny.site) · [Deck](https://canva.link/ja7l3zsexb11suy)
-
+<td width="33%" valign="top" align="center">
+<a href="https://www.youtube.com/watch?v=-AGu_jd0vqw"><img src="https://img.youtube.com/vi/-AGu_jd0vqw/mqdefault.jpg" width="270" alt="Loom demo" /></a>
+<p><sub><b>Loom</b> · StaleBench on Django</sub></p>
 </td>
-<td width="50%" valign="top">
-
-#### 02 · [Guardian Kane](https://github.com/18Abhinav07/adventures-with-kane) &nbsp;<sub>Claude Code Tooling</sub>
-12-phase automated verification loop and task control plane for Claude Code. Drives real browser tests, defect sweeps, PRD drift tracking, and code graph introspection.
-
-<a href="https://www.youtube.com/watch?v=TfVm0yNzBJE" target="_blank">
-  <img src="https://img.youtube.com/vi/TfVm0yNzBJE/mqdefault.jpg" width="100%" alt="Guardian Kane Demo Video" />
-</a>
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat-square) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=fff&style=flat-square) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=fff&style=flat-square) ![Cytoscape](https://img.shields.io/badge/-Cytoscape-0b1622?style=flat-square)
-
-[GitHub Repo](https://github.com/18Abhinav07/adventures-with-kane) · [Full System Demo (YouTube)](https://www.youtube.com/watch?v=TfVm0yNzBJE) · [Deep Dive Video](https://www.youtube.com/watch?v=efTl_ZSmXUw)
-
+<td width="33%" valign="top" align="center">
+<a href="https://www.youtube.com/watch?v=TfVm0yNzBJE"><img src="https://img.youtube.com/vi/TfVm0yNzBJE/mqdefault.jpg" width="270" alt="Guardian Kane demo" /></a>
+<p><sub><b>Guardian Kane</b> · full system demo</sub></p>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://www.youtube.com/watch?v=eulHWqBkedQ"><img src="https://img.youtube.com/vi/eulHWqBkedQ/mqdefault.jpg" width="270" alt="AgentOps demo" /></a>
+<p><sub><b>AgentOps</b> · demo</sub></p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 03 · [PayZoll](https://payzoll.in) &nbsp;<sub>Stellar · Soroban</sub>
-Cross-border payroll and treasury infrastructure for crypto-native organizations. Multi-hop path payments and single-click mass settlement.
-
-<a href="https://www.youtube.com/watch?v=yv8EjbytD2A" target="_blank">
-  <img src="https://img.youtube.com/vi/yv8EjbytD2A/mqdefault.jpg" width="100%" alt="PayZoll Demo Video" />
-</a>
-
-![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff&style=flat-square) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff&style=flat-square) ![Soroban](https://img.shields.io/badge/-Soroban-000?logo=stellar&logoColor=fff&style=flat-square) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat-square)
-
-`$100K SCF Grant` · `Mainnet Live` · [payzoll.in](https://payzoll.in) · [Hackathon Demo (YouTube)](https://www.youtube.com/watch?v=yv8EjbytD2A)
-
+<td width="33%" valign="top" align="center">
+<a href="https://www.youtube.com/watch?v=yv8EjbytD2A"><img src="https://img.youtube.com/vi/yv8EjbytD2A/mqdefault.jpg" width="270" alt="PayZoll demo" /></a>
+<p><sub><b>PayZoll</b> · Build Better hackathon</sub></p>
 </td>
-<td width="50%" valign="top">
-
-#### 04 · [VEIL / Tesseract](https://tesseractprotocol.xyz) &nbsp;<sub>Stellar</sub>
-Privacy as a wallet and protocol primitive. Shielded note pool, private peer-to-peer transfers, batch payouts, and private prediction markets on Stellar.
-
-<a href="https://www.youtube.com/watch?v=CIWCdmyTbRY" target="_blank">
-  <img src="https://img.youtube.com/vi/CIWCdmyTbRY/mqdefault.jpg" width="100%" alt="VEIL Demo Video" />
-</a>
-
-![Stellar SDK](https://img.shields.io/badge/-Stellar%20SDK-000?logo=stellar&logoColor=fff&style=flat-square) ![ZK Proofs](https://img.shields.io/badge/-Zero--Knowledge-512BD4?style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
-
-`Shielded Note Model` · `Encrypted Vault` · [Protocol Live](https://tesseractprotocol.xyz) · [GitHub Org](https://github.com/The-Tesseract-Protocol) · [Video Demo](https://www.youtube.com/watch?v=CIWCdmyTbRY)
-
+<td width="33%" valign="top" align="center">
+<a href="https://www.youtube.com/watch?v=CIWCdmyTbRY"><img src="https://img.youtube.com/vi/CIWCdmyTbRY/mqdefault.jpg" width="270" alt="VEIL demo" /></a>
+<p><sub><b>VEIL</b> · Stellar ZK Hacks build</sub></p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 05 · [OpenAssets](https://www.openassets.xyz) &nbsp;<sub>Mantle Network</sub>
-Institutional Real-World Asset (RWA) execution gateway bridging off-chain cash flows with on-chain liquidity via compliant security token standards.
-
-<a href="https://www.youtube.com/watch?v=RYDPzdRAqPg" target="_blank">
-  <img src="https://img.youtube.com/vi/RYDPzdRAqPg/mqdefault.jpg" width="100%" alt="OpenAssets Demo Video" />
-</a>
-
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=fff&style=flat-square) ![ERC-3643](https://img.shields.io/badge/-ERC--3643-627EEA?style=flat-square) ![mETH](https://img.shields.io/badge/-mETH%20Leverage-000?style=flat-square) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff&style=flat-square)
-
-[Live App](https://www.openassets.xyz) · [GitHub](https://github.com/TheOpenAssets) · [Video Demo (YouTube)](https://www.youtube.com/watch?v=RYDPzdRAqPg) · [Deck](https://canva.link/tbjsx34kgdzju4c)
-
-</td>
-<td width="50%" valign="top">
-
-#### 06 · [Kredio](https://kredio-gamma.vercel.app) &nbsp;<sub>Polkadot · Paseo</sub>
-Decentralized on-chain credit scoring and risk evaluation layer. Hybrid EVM ↔ PolkaVM atomic execution with cross-chain scoring via XCM.
-
-<a href="https://www.youtube.com/watch?v=zNR5cX0gdCA" target="_blank">
-  <img src="https://img.youtube.com/vi/zNR5cX0gdCA/mqdefault.jpg" width="100%" alt="Kredio Demo Video" />
-</a>
-
-![ink!](https://img.shields.io/badge/-ink!%20Wasm-E6007A?logo=polkadot&logoColor=fff&style=flat-square) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=fff&style=flat-square) ![XCM](https://img.shields.io/badge/-Polkadot%20XCM-E6007A?style=flat-square)
-
-[Live App](https://kredio-gamma.vercel.app) · [GitHub](https://github.com/18Abhinav07/Kredio) · [Video Walkthrough (YouTube)](https://www.youtube.com/watch?v=zNR5cX0gdCA)
-
+<td width="33%" valign="top" align="center">
+<a href="https://www.youtube.com/watch?v=9ylVcZGGJKU"><img src="https://img.youtube.com/vi/9ylVcZGGJKU/mqdefault.jpg" width="270" alt="Pods demo" /></a>
+<p><sub><b>Pods</b> · demo</sub></p>
 </td>
 </tr>
 </table>
 
+<br/>
+
+## Earlier
+
+- **[PayZoll](https://payzoll.in)** · cross-border payroll and treasury on Stellar. Ex co-founder and lead architect.
+- **[Tesseract](https://tesseractprotocol.xyz)** and **VEIL** · privacy as a wallet primitive on Stellar.
+- **[Kredio](https://kredio-gamma.vercel.app)** · on-chain credit on Polkadot. [Walkthrough](https://www.youtube.com/watch?v=zNR5cX0gdCA)
+- **[OpenAssets](https://github.com/TheOpenAssets)** · an RWA gateway on Mantle. [Demo](https://www.youtube.com/watch?v=RYDPzdRAqPg)
+- **Pods** · NIM-backed accountability for small groups.
+
+<br/>
+
+## Tools I reach for
+
 <div align="center">
-  <a href="https://abhinavpangaria.pages.dev">
-    <img src="https://img.shields.io/badge/Explore%20Full%20Portfolio%20and%20Deep%20Dives%20%E2%86%92-84cc16?style=for-the-badge&logoColor=0b1622" alt="Full Portfolio" />
-  </a>
-</div>
 
----
-
-## Technical Stack
-
-<div align="center">
-
-<sub><b>SYSTEMS &amp; SMART CONTRACTS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=rust,solidity,go,wasm&theme=dark" alt="systems" />
-&nbsp;
-<img src="https://img.shields.io/badge/Soroban-0b1622?logo=stellar&logoColor=84cc16&style=flat-square" alt="soroban" />
-<img src="https://img.shields.io/badge/Polkadot%20ink!-0b1622?logo=polkadot&logoColor=E6007A&style=flat-square" alt="polkadot" />
-<img src="https://img.shields.io/badge/Casper%20Odra-0b1622?logoColor=FF0000&style=flat-square" alt="casper" />
-
-<br/><br/>
-
-<sub><b>AGENTIC AI &amp; INFRASTRUCTURE</b></sub><br/>
-<img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-0b1622?style=flat-square&logoColor=84cc16" alt="mcp" />
-<img src="https://img.shields.io/badge/Claude%20Code%20Tooling-0b1622?style=flat-square&logoColor=84cc16" alt="claude" />
-<img src="https://img.shields.io/badge/RAG%20Pipelines-0f766e?style=flat-square&logoColor=fff" alt="rag" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat-square" alt="langchain" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ml" />
-
-<br/><br/>
-
-<sub><b>BACKEND &amp; CLOUD PLATFORMS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,postgres,redis,mongodb,docker,kubernetes,aws&theme=dark" alt="backend" />
-
-<br/><br/>
-
-<sub><b>FRONTEND &amp; INTERFACES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=rust,go,python,ts,nodejs,fastapi,postgres,redis,docker,kubernetes,aws,gcp,nextjs,react&perline=14&theme=dark" alt="Rust, Go, Python, TypeScript, Node.js, FastAPI, Postgres, Redis, Docker, Kubernetes, AWS, GCP, Next.js, React" />
 
 </div>
 
----
+<br/>
 
-## GitHub Activity
+## Activity
 
 <div align="center">
 
@@ -187,17 +102,11 @@ Decentralized on-chain credit scoring and risk evaluation layer. Hybrid EVM ↔ 
 
 </div>
 
----
-
-## Certifications
-
-<div align="center">
+<details>
+<summary><b>Certificates</b> &nbsp;·&nbsp; DeepLearning.AI · Harvard CS50 · Google · Coursera</summary>
+<br/>
 
 <img src="assets/certs.svg" alt="certifications carousel" width="100%" />
-
-<details>
-<summary><b>View All Certificates &nbsp;·&nbsp; DeepLearning.AI · Harvard CS50 · Google · Coursera</b></summary>
-<br/>
 
 | | |
 |---|---|
@@ -216,19 +125,12 @@ Decentralized on-chain credit scoring and risk evaluation layer. Hybrid EVM ↔ 
 
 </details>
 
-</div>
-
----
+<br/>
 
 <div align="center">
 
-### Let's build something resilient.
+**Open to roles, or just say hi.** &nbsp;[abhinavpangaria2003@gmail.com](mailto:abhinavpangaria2003@gmail.com)
 
-<a href="mailto:abhinavpangaria2003@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://abhinavpangaria.pages.dev"><img src="https://img.shields.io/badge/abhinavpangaria.pages.dev-84cc16?style=for-the-badge&logo=vercel&logoColor=0b1622" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/abhinavpangaria"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/abhinavpangaria"><img src="https://img.shields.io/badge/Follow%20on%20X-0b1622?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,50:0f766e,100:0b1622&height=120&section=footer" width="100%" alt="" />
+<img src="assets/hero.gif" alt="Pixel-art Abhinav running through a neon city" width="100%" />
 
 </div>
