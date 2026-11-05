@@ -30,7 +30,7 @@ The subject keeps changing. So far it has been developer tools, payments, privac
 | <a href="https://github.com/18Abhinav07/DiggingOnDart"><img src="https://res.cloudinary.com/dj57qnyzd/image/upload/f_jpg,q_auto,w_480,h_270,c_fill,g_north/v1793018979/portfolio/portfolio/projects/dart/dart.png" width="180" alt="Prefill and the Frame screenshot" /></a> | **[Prefill and the Frame](https://github.com/18Abhinav07/DiggingOnDart)** | Local inference vs. the browser compositor: why GPU-heavy pages stutter while a model reads. <sub>Python · llama.cpp</sub> | **64%** dropped frames at batch 512, **1.3%** at batch 64 |
 | <a href="https://github.com/18Abhinav07/Loom"><img src="https://img.youtube.com/vi/-AGu_jd0vqw/hqdefault.jpg" width="180" alt="Loom screenshot" /></a> | **[Loom](https://github.com/18Abhinav07/Loom)** | A shared, live world model for parallel coding agents, kept in one graph. <sub>TypeScript · [post](https://dev.to/abhinav_pangaria/stale-memory-stale-execution-and-how-loom-tackles-stalebench-f2i)</sub> | Merges passing: **0/36** without it, **24/36** with it |
 | <a href="https://github.com/18Abhinav07/adventures-with-kane"><img src="https://res.cloudinary.com/dj57qnyzd/image/upload/f_jpg,q_auto,w_480,h_270,c_fill,g_north/portfolio/projects/guardiankane/Hero-Dashboard.png" width="180" alt="Guardian Kane screenshot" /></a> | **[Guardian Kane](https://github.com/18Abhinav07/adventures-with-kane)** | The loop that makes an agent's "done" something it has to prove, not just say. <sub>Node.js · Claude Code</sub> | **460+** unit tests, 3-strike escalation to a human |
-| <a href="https://github.com/AgenticOperations/AOPS-PMOA"><img src="https://res.cloudinary.com/dj57qnyzd/image/upload/f_jpg,q_auto,w_480,h_270,c_fill,g_north/portfolio/projects/aops/Landing-1.png" width="180" alt="AgentOps screenshot" /></a> | **[AgentOps](https://github.com/AgenticOperations/AOPS-PMOA)** | The organizational control plane for agents that hold money. <sub>TypeScript · [deck](https://canva.link/ja7l3zsexb11suy)</sub> | **5** agents on **2** chains, fail-closed policy |
+| <a href="https://github.com/AgenticOperations/AOPS-PMOA"><img src="https://res.cloudinary.com/dj57qnyzd/image/upload/f_jpg,q_auto,w_480,h_270,c_fill,g_north/portfolio/projects/aops/Landing-1.png" width="180" alt="AgentOps screenshot" /></a> | **[AgentOps](https://github.com/AgenticOperations/AOPS-PMOA)** | The organizational control plane for agents that hold money, migrated from TypeScript to C# / .NET 8. <sub>C# · .NET 8 · ASP.NET Core · SQL Server · [deck](https://canva.link/ja7l3zsexb11suy)</sub> | **5** agents on **2** chains, fail-closed policy |
 | <a href="https://zidd.onrender.com"><img src="https://res.cloudinary.com/dj57qnyzd/image/upload/f_jpg,q_auto,w_480,h_270,c_fill,g_north/v1792737624/portfolio/projects/zidd/Zidd-Hero.png" width="180" alt="Zidd screenshot" /></a> | **[Zidd](https://zidd.onrender.com)** | An AI English coach for learners in India, from Class 2 chapters to the interview room. <sub>FastAPI · LangGraph</sub> | **47** NCERT chapters, **2,330** backend tests |
 
 <br/>
@@ -115,7 +115,7 @@ The subject keeps changing. So far it has been developer tools, payments, privac
 
 <a href="https://abhinavpangaria.pages.dev/work/pods"><img src="https://res.cloudinary.com/dj57qnyzd/image/upload/f_jpg,q_auto,w_480,h_270,c_fill,g_north/portfolio/projects/pods/Landing.png" width="270" alt="Pods screenshot" /></a>
 
-**[Pods](https://abhinavpangaria.pages.dev/work/pods)** · NIM-backed accountability for small groups. [Demo](https://www.youtube.com/watch?v=9ylVcZGGJKU)
+**[Pods](https://abhinavpangaria.pages.dev/work/pods)** · an accountability platform for small groups, rebuilt from TypeScript into C# / .NET 8. [Code](https://github.com/18Abhinav07/Pods) · [Demo](https://www.youtube.com/watch?v=9ylVcZGGJKU)
 
 </td>
 </tr>
@@ -127,7 +127,7 @@ The subject keeps changing. So far it has been developer tools, payments, privac
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,go,python,ts,nodejs,fastapi,postgres,redis,docker,kubernetes,aws,gcp,nextjs,react&perline=14&theme=dark" alt="Rust, Go, Python, TypeScript, Node.js, FastAPI, Postgres, Redis, Docker, Kubernetes, AWS, GCP, Next.js, React" />
+<img src="https://skillicons.dev/icons?i=rust,go,cs,dotnet,python,ts,nodejs,fastapi,postgres,redis,docker,kubernetes,aws,azure,gcp,nextjs,react&perline=9&theme=dark" alt="Rust, Go, C#, .NET, Python, TypeScript, Node.js, FastAPI, Postgres, Redis, Docker, Kubernetes, AWS, Azure, GCP, Next.js, React" />
 
 </div>
 
